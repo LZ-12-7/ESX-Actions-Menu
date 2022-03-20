@@ -7,7 +7,7 @@ IMG:
 
 ![image](https://user-images.githubusercontent.com/94126308/159174765-c4e7a45a-cba0-493f-83c7-0353692adf5d.png)
 
-Video: https://streamable.com/tycno8
+Preview: https://streamable.com/tycno8
 
 [Nota]
 
