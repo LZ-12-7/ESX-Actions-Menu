@@ -8,4 +8,5 @@ IMG: https://i.imgur.com/0aPIC74.png
 Video: https://streamable.com/tycno8
 
 [Nota]
+
 Si teneis comandos como /cargar, /suelo, /caballito o /th borrarlos debido a que en este pack ya vienen
