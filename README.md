@@ -3,7 +3,7 @@ Un menú creado por mi y con un poco de ayuda de parte de https://github.com/Rey
 
 Discord: https://discord.gg/aGXVTP3UVb,
 
-IMG: "https://i.imgur.com/0aPIC74.png",
+IMG: https://i.imgur.com/0aPIC74.png,
 
 Video: https://streamable.com/tycno8.
 
