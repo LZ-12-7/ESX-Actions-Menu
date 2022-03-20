@@ -18,3 +18,7 @@ Resmon = 0.03 MAX
 [Tecla]
 
 Se abre a la tecla M pero obviamente se puede personalizar
+
+[Otro]
+
+Si necesitais ayuda contactarme a mi discord LZ#0001
