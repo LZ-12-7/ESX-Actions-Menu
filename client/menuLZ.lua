@@ -53,10 +53,10 @@ ESX.UI.Menu.Open('default', GetCurrentResourceName(), 'actionsmenuLZ',{
 function(data, menu)
     if data.current.value == 'cargar' then
         ExecuteCommand('cargar')
-        ExecuteCommand('me Lo carga en el hombro')
+        ExecuteCommand('me Lo carga/Lo suelta del hombro')
     elseif data.current.value == 'caballito' then
         ExecuteCommand('caballito')
-        ExecuteCommand('me Le carga/Le a las espaldas')
+        ExecuteCommand('me Le carga a las espaldas/Le suelta')
         elseif data.current.value == 'th' then
         ExecuteCommand('th')
         ExecuteCommand('me Le apunta con una pistola en la cabeza')
