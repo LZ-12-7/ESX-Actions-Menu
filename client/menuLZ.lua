@@ -39,6 +39,7 @@ function openMenu()
     local elems = {
     {label = 'Cargar', value = 'cargar'},
     {label = 'Caballito', value = 'caballito'},
+    {label = 'Caerse al suelo', value = 'caeraselo'},
     {label = 'Apuntar con pistola a persona', value = 'th'},
 }
 
@@ -59,6 +60,8 @@ function(data, menu)
         elseif data.current.value == 'th' then
         ExecuteCommand('th')
         ExecuteCommand('me Le apunta con una pistola en la cabeza')
+	elseif data.current.value == 'caerasuelo' then
+        ExecuteCommand('suelo')
     end
 end,
 function(data, menu)
