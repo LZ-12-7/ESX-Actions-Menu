@@ -14,3 +14,7 @@ Si teneis comandos como /cargar, /suelo, /caballito o /th borrarlos debido a que
 [Resmon]
 
 Resmon = 0.03 MAX
+
+[Tecla]
+
+Se abre a la tecla M pero obviamente se puede personalizar
