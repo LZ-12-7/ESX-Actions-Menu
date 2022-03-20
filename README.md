@@ -10,3 +10,7 @@ Video: https://streamable.com/tycno8
 [Nota]
 
 Si teneis comandos como /cargar, /suelo, /caballito o /th borrarlos debido a que en este pack ya vienen
+
+[Resmon]
+
+Resmon = 0.03 MAX
