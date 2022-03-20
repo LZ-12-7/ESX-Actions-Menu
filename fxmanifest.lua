@@ -9,6 +9,7 @@ client_scripts {
     "client/cl_takehostage.lua",
     "client/cl_piggyback.lua",
     "client/cl_carry.lua",
+    "client/cl_barrasuelo.lua",
 }
 
 server_scripts {
