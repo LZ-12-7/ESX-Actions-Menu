@@ -39,7 +39,7 @@ function openMenu()
     local elems = {
     {label = 'Cargar', value = 'cargar'},
     {label = 'Caballito', value = 'caballito'},
-    {label = 'Caerse al suelo', value = 'caeraselo'},
+    {label = 'Caerse al suelo', value = 'caerasuelo'},
     {label = 'Apuntar con pistola a persona', value = 'th'},
 }
 
