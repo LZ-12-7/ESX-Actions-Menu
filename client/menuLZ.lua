@@ -26,12 +26,6 @@ Citizen.CreateThread(function()
         if IsControlJustReleased(0, Keys['M']) then
 			openMenu()
 		end
-		if IsControlJustReleased(0, 57) and open or IsControlJustReleased(0, 177) and open then
-				SendNUIMessage({
-					action = "close"
-				})
-				open = false
-			end
 	end
 end)
 
